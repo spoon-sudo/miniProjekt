@@ -31,12 +31,12 @@ main {
   margin-top: 35px;
 }
 
-main > div{
+main > div {
   transition: width 0.3s, height 0.3s, font-size 0.3s;
   border-radius: 6px;
 }
 
-main > div:hover{
+main > div:hover {
   background-color: #e19ef5;
   width: 175px;
   height: 215px;
@@ -44,12 +44,12 @@ main > div:hover{
   font-size: 18px;
 }
 
-a > div{
+a > div {
   transition: width 0.3s, height 0.3s, font-size 0.3s;
   border-radius: 6px;
 }
 
-a > div:hover{
+a > div:hover {
   background-color: #e19ef5;
   width: 175px;
   height: 215px;
@@ -72,7 +72,6 @@ a > div:hover{
   height: 200px;
   background-color: #c678dd;
   text-align: center;
-  
 }
 
 .info {
@@ -84,7 +83,7 @@ a > div:hover{
   text-align: center;
 }
 
-a{
+a {
   text-decoration: none;
   color: black;
 }
